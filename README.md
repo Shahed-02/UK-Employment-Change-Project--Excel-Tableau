@@ -57,6 +57,38 @@ The dashboard visualizes:
 - Cities experienced varying **average % changes**, with some growth hotspots evident on the map.
 
 ---
+## 🔍 Case Study: Birmingham  
+
+![image](https://github.com/user-attachments/assets/c7b8874d-2c0f-4c69-b456-5437ffcc977f)
+
+
+1. **🏆 Top Performing Industry**:  
+   - *Wholesale and Retail* 🛒 recorded the **highest job growth** with **+8,359** jobs.  
+
+2. **📉 Industries in Decline**:  
+   - The **Education** sector 📚 showed a significant **decline** with **-5,179** jobs.  
+   - Other sectors such as **Information and Communication** 💻 (-3,320) and **Construction** 🏗️ (-2,786) also saw notable decreases.  
+
+3. **🩺 Industries with Moderate Growth**:  
+   - *Human Health Activities* 🏥 increased by **+4,693** jobs.  
+   - *Administrative and Support Services* 📋 grew by **+1,585** jobs.  
+   - *Accommodation Services* 🏨 contributed **+529** jobs.  
+
+4. **🎭 Arts and Professional Fields**:  
+   - *Arts, Entertainment, and Recreation* 🎨 recorded a smaller increase of **+462** jobs.  
+   - *Professional Services* 📈 added **+434** jobs.  
+
+5. **⚠️ Sub-Industry Observations**:  
+   - Declines were concentrated in **Social Work Activities**, **Warehousing**, and **Employment Activities**.  
+   - Growth was prominent in **Retail Trade** 🛍️ and **Human Health Activities** 🏥.  
+
+6. **🌍 Overall Impact**:  
+   - Birmingham displayed a **mixed employment trend**, balancing strong growth in retail and health with declines in education and technology sectors.  
+
+
+
+
+---
 
 ## 🎉 Reflection
 This project honed my ability to tell compelling stories with data. By leveraging Tableau's powerful features, I transformed employment data into visuals that uncover key trends and insights. I particularly enjoyed designing interactive elements that allow for deeper exploration and analysis. 🎯
