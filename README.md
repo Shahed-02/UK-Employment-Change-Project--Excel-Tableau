@@ -18,7 +18,7 @@ The dashboard visualizes:
 - **Data Filtering** 🔍: Focused on city-level and industry-specific employment trends.  
 
 ### 🔵 Tableau: Data Visualization  
-- **Visualizations**: Created engaging visuals, including:  
+- **Visualizations**: Created **4** engaging visuals, including:  
    - Tree maps 📏 for sub-industry job changes.  
    - Bubble charts 🔴 showing city job growth.  
    - Bar charts 📊 highlighting top industry changes.  
