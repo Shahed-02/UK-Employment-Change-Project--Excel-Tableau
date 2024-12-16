@@ -21,7 +21,7 @@ The dashboard visualizes:
 - **Dashboard Design**: Combined all visuals into a clean, interactive dashboard for intuitive exploration.
 
 #### Tableau Skills Learned:
-- Designing effective **tree maps, bar charts, and maps**.
+- Designing effective **tree maps, bar charts, bubble charts, and maps**.
 - Integrating multiple visualizations into one cohesive dashboard.
 - Optimizing layout and storytelling to deliver insights clearly.
 - Using Tableau features to enable filtering and interactivity for users.
