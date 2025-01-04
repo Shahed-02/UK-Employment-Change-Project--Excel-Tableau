@@ -114,7 +114,6 @@ This project honed my ability to tell compelling stories with data. By leveragin
 
 ## 📑 Files in Repository  
 - **Dashboard Link**: Access the live Tableau dashboard.  
-- **Image Assets**: Key visuals to illustrate findings.  
 - **Dataset**: Employment data from 2011 - 2014 (UK Cities).  
 
 ---
